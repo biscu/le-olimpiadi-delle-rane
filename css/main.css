@@ -47,10 +47,10 @@ video::-webkit-media-controls-panel {
 }
 
 :root {
-  --text-color: #181818;
+  --text-color: #eaeaea;
   /* --text-color: #FFffff; */
 
-  --background-color: #f8f8f8;
+  --background-color: #141414;
   /* Inverted */
   /* --text-color: #151514;
   --background-color: #FFF9E4;  */
@@ -177,7 +177,7 @@ video::-webkit-media-controls-panel {
 .loader {
   width: 100%;
   height: 100svh;
-  background-color: #e1e2d2;
+  background-color: #000000;
   z-index: 200;
   opacity: 1;
   display: flex;
